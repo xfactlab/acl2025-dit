@@ -14,8 +14,8 @@ To enhance reasoning capabilities, previous works have explored incorporating sp
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/dynamic_erasing.git
-cd dynamic_erasing
+git clone git@github.com:xfactlab/acl2025-pause.git
+cd acl2025-pause
 ```
 
 2. Install dependencies:
