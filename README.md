@@ -14,8 +14,8 @@ To enhance reasoning capabilities, previous works have explored incorporating sp
 
 1. Clone the repository:
 ```bash
-git clone git@github.com:xfactlab/acl2025-pause.git
-cd acl2025-pause
+git clone git@github.com:xfactlab/acl2025-dit.git
+cd acl2025-dit
 ```
 
 2. Install dependencies:
